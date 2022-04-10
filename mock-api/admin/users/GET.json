@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "username": "nirish",
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "id": 2,
+        "username": "sai",
+        "role": "ROLE_USER"
+    },
+    {
+        "id": 3,
+        "username": "test",
+        "role": "ROLE_USER"
+    },
+    {
+        "id": 4,
+        "username": "admin",
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "id": 5,
+        "username": "sia",
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "id": 6,
+        "username": "john",
+        "role": "ROLE_USER"
+    },
+    {
+        "id": 7,
+        "username": "june",
+        "role": "ROLE_USER"
+    },
+    {
+        "id": 8,
+        "username": "joe",
+        "role": "ROLE_ADMIN"
+    }
+]
